@@ -15,6 +15,7 @@ License:	LGPL
 Source:		http://ftp.gnome.org/pub/GNOME/sources/libsigc++/%{pkgname}-%{version}.tar.bz2
 Url:		http://libsigc.sourceforge.net/
 Group:		System/Libraries
+BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires:	autoconf2.5
 
 %description
