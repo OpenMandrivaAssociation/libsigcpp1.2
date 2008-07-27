@@ -1,5 +1,5 @@
 %define version 1.2.7
-%define release %mkrel 1
+%define release %mkrel 3
 
 %define pkgname libsigc++
 
