@@ -8,7 +8,7 @@
 Summary:	The Typesafe Signal Framework for C++
 Name:		%{pkgname}%{api}
 Version:	1.2.7
-Release:	5
+Release:	6
 License:	LGPLv2.1+
 Group:		System/Libraries
 Url:		http://libsigc.sourceforge.net/
