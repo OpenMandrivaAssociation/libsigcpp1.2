@@ -11,7 +11,7 @@ Version:	1.2.7
 Release:	6
 License:	LGPLv2.1+
 Group:		System/Libraries
-Url:		http://libsigc.sourceforge.net/
+Url:		https://libsigc.sourceforge.net/
 Source0:	http://ftp.gnome.org/pub/GNOME/sources/libsigc++/%{pkgname}-%{version}.tar.bz2
 
 %description
