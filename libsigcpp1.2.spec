@@ -14,6 +14,11 @@ Group:		System/Libraries
 Url:		https://libsigc.sourceforge.net/
 Source0:	http://ftp.gnome.org/pub/GNOME/sources/libsigc++/%{pkgname}-%{version}.tar.bz2
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 %description
 Callback system for use in widget libraries, abstract interfaces, and
 general programming.
